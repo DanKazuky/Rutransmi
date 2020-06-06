@@ -1,0 +1,552 @@
+{
+  "Paradero" : {
+    "00001" : {
+      "Direccion_Paradero" : "\"CRA 10 # 6\"",
+      "Latitud_Paradero" : "\"4.593832\"",
+      "Longitud_Paradero" : "\"-74.081899\"",
+      "Nombre_Paradero" : "\"BICENTENARIO\"",
+      "Ruta" : {
+        "Num_Ruta" : [ "14-2", "16-13" ]
+      }
+    },
+    "00002" : {
+      "Direccion_Paradero" : "\"AC 6 # 9\"",
+      "Latitud_Paradero" : "\"4.592561\"",
+      "Longitud_Paradero" : "\"-74.081350\"",
+      "Nombre_Paradero" : "\"IED ANTONIO JOSE URIBE\"",
+      "Ruta" : {
+        "Num_Ruta" : "14-2"
+      }
+    },
+    "00003" : {
+      "Direccion_Paradero" : "\"AC 6 # 7\"",
+      "Latitud_Paradero" : "\"4.591046\"",
+      "Longitud_Paradero" : "\"-74.080104\"",
+      "Nombre_Paradero" : "\"BR. SANTA BARBARA\""
+    },
+    "00004" : {
+      "Direccion_Paradero" : "\"AC 6 # 5\"",
+      "Latitud_Paradero" : "\"4.590185\"",
+      "Longitud_Paradero" : "\"-74.078056\"",
+      "Nombre_Paradero" : "\"BR. SANTA BARBARA\""
+    },
+    "00005" : {
+      "Direccion_Paradero" : "\"CRA 5 # 5\"",
+      "Latitud_Paradero" : "\"4.592092\"",
+      "Longitud_Paradero" : "\"-74.076368\"",
+      "Nombre_Paradero" : "\"CENTRO EDUCATIVO DE INGAKUNAPA\""
+    },
+    "00006" : {
+      "Direccion_Paradero" : "\"Cll 7 # 4\"",
+      "Latitud_Paradero" : "\"4.592087\"",
+      "Longitud_Paradero" : "\"-74.074908\"",
+      "Nombre_Paradero" : "\"SUPERINTENDENCIA FINANCIERA\""
+    },
+    "00007" : {
+      "Direccion_Paradero" : "\"CLL 7 # 0\"",
+      "Latitud_Paradero" : "\"4.592087\"",
+      "Longitud_Paradero" : "\"-74.071958\"",
+      "Nombre_Paradero" : "\"BR. BELEN\""
+    },
+    "00008" : {
+      "Direccion_Paradero" : "\"CRA 3 ESTE # 9B\"",
+      "Latitud_Paradero" : "\"4.593199\"",
+      "Longitud_Paradero" : "\"-74.069856\"",
+      "Nombre_Paradero" : "\"FUNDAFIDRO\""
+    },
+    "00009" : {
+      "Direccion_Paradero" : "\"CRA 6 ESTE # 11\"",
+      "Latitud_Paradero" : "\"4.595692\"",
+      "Longitud_Paradero" : "\"-74.067512\"",
+      "Nombre_Paradero" : "\"EAAB\""
+    },
+    "00010" : {
+      "Direccion_Paradero" : "\"CRA 1 # 19A\"",
+      "Latitud_Paradero" : "\"4.599844\"",
+      "Longitud_Paradero" : "\"-74.069856\"",
+      "Nombre_Paradero" : "\"TEATRO LA MEDIA TORTA\""
+    },
+    "00011" : {
+      "Direccion_Paradero" : "\"CRA 1 # 20\"",
+      "Latitud_Paradero" : "\"4.601617\"",
+      "Longitud_Paradero" : "\"-74.061471\"",
+      "Nombre_Paradero" : "\"CENTRO LAS GAVIOTAS\""
+    },
+    "00012" : {
+      "Direccion_Paradero" : "\"Cll 22 # 1 ESTE\"",
+      "Latitud_Paradero" : "\"4.603991\"",
+      "Longitud_Paradero" : "\"-74.064818\"",
+      "Nombre_Paradero" : "\"BR. LAS AGUAS\""
+    },
+    "00013" : {
+      "Direccion_Paradero" : "\"Cll 22 # 2\"",
+      "Latitud_Paradero" : "\"4.605296\"",
+      "Longitud_Paradero" : "\"-74.066063\"",
+      "Nombre_Paradero" : "\"UNIVERSIDADES\""
+    },
+    "00014" : {
+      "Direccion_Paradero" : "\"CRA 3 # 21\"",
+      "Latitud_Paradero" : "\"4.605392\"",
+      "Longitud_Paradero" : "\"-74.066921\"",
+      "Nombre_Paradero" : "\"ESTACION UNIVERSIDADES\""
+    },
+    "00015" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # 136\"",
+      "Latitud_Paradero" : "\"4.721920\"",
+      "Longitud_Paradero" : "\"-74.050969\"",
+      "Nombre_Paradero" : "\"PARQUE ALCALA\""
+    },
+    "00016" : {
+      "Direccion_Paradero" : "\"CLL 142 # 20\"",
+      "Latitud_Paradero" : "\"4.724473\"",
+      "Longitud_Paradero" : "\"-74.047843\"",
+      "Nombre_Paradero" : "\"BR. LOS CEDROS\""
+    },
+    "00017" : {
+      "Direccion_Paradero" : "\"CLL 142 # 18A\"",
+      "Latitud_Paradero" : "\"4.724048\"",
+      "Longitud_Paradero" : "\"-74.045395\"",
+      "Nombre_Paradero" : "\"CAMARA DE COMERCIO DE BOGOTA CEDRITOS\""
+    },
+    "00018" : {
+      "Direccion_Paradero" : "\"CLL 142 # 17\"",
+      "Latitud_Paradero" : "\"4.724171\"",
+      "Longitud_Paradero" : "\"-74.043692\"",
+      "Nombre_Paradero" : "\"BR. LOS CEDROS\""
+    },
+    "00019" : {
+      "Direccion_Paradero" : "\"CLL 142 # 16A\"",
+      "Latitud_Paradero" : "\"4.724012\"",
+      "Longitud_Paradero" : "\"-74.042901\"",
+      "Nombre_Paradero" : "\"BR. CEDRITOS\""
+    },
+    "00020" : {
+      "Direccion_Paradero" : "\"CLL 142 # 13\"",
+      "Latitud_Paradero" : "\"4.722961\"",
+      "Longitud_Paradero" : "\"-74.039114\"",
+      "Nombre_Paradero" : "\"BR. CEDRITOS\""
+    },
+    "00021" : {
+      "Direccion_Paradero" : "\"CLL 142 # 12B\"",
+      "Latitud_Paradero" : "\"4.722515\"",
+      "Longitud_Paradero" : "\"-74.038000\"",
+      "Nombre_Paradero" : "\"BR. CEDRITOS\""
+    },
+    "00022" : {
+      "Direccion_Paradero" : "\"CLL 142 # 11\"",
+      "Latitud_Paradero" : "\"4.721007\"",
+      "Longitud_Paradero" : "\"-74.034639\"",
+      "Nombre_Paradero" : "\"BR. CEDRITOS\""
+    },
+    "00023" : {
+      "Direccion_Paradero" : "\"CLL 140 # 9\"",
+      "Latitud_Paradero" : "\"4.717969\"",
+      "Longitud_Paradero" : "\"-74.032590\"",
+      "Nombre_Paradero" : "\"BR. LISBOA\""
+    },
+    "00024" : {
+      "Direccion_Paradero" : "\"CLL 140 # 7\"",
+      "Latitud_Paradero" : "\"4.716506\"",
+      "Longitud_Paradero" : "\"-74.028958\"",
+      "Nombre_Paradero" : "\"CENTRO COMERCIAL PALATINO\""
+    },
+    "00025" : {
+      "Direccion_Paradero" : "\"CRA 7 # 140\"",
+      "Latitud_Paradero" : "\"4.712795\"",
+      "Longitud_Paradero" : "\"-74.028627\"",
+      "Nombre_Paradero" : "\"C.C. Palatino\""
+    },
+    "00026" : {
+      "Direccion_Paradero" : "\"CRA 7 # 135\"",
+      "Latitud_Paradero" : "\"4.713662\"",
+      "Longitud_Paradero" : "\"-74.029322\"",
+      "Nombre_Paradero" : "\"BR. SEGUNDO CONTADOR\""
+    },
+    "00027" : {
+      "Direccion_Paradero" : "\"CLL 134 # 7B\"",
+      "Latitud_Paradero" : "\"4.712795\"",
+      "Longitud_Paradero" : "\"-74.031565\"",
+      "Nombre_Paradero" : "\"BR. LISBOA\""
+    },
+    "00028" : {
+      "Direccion_Paradero" : "\"CLL 134 # 9A\"",
+      "Latitud_Paradero" : "\"4.713451\"",
+      "Longitud_Paradero" : "\"-74.033645\"",
+      "Nombre_Paradero" : "\"BR. LISBOA\""
+    },
+    "00029" : {
+      "Direccion_Paradero" : "\"CLL 134 # 11B\"",
+      "Latitud_Paradero" : "\"4.714712\"",
+      "Longitud_Paradero" : "\"-74.037597\"",
+      "Nombre_Paradero" : "\"BR. LISBOA\""
+    },
+    "00030" : {
+      "Direccion_Paradero" : "\"CLL 134 # 12A\"",
+      "Latitud_Paradero" : "\"4.715376\"",
+      "Longitud_Paradero" : "\"-74.039449\"",
+      "Nombre_Paradero" : "\"URB. ANTIGUA\""
+    },
+    "00031" : {
+      "Direccion_Paradero" : "\"Cll 134 # 15\"",
+      "Latitud_Paradero" : "\"4.716429\"",
+      "Longitud_Paradero" : "\"-74.042944\"",
+      "Nombre_Paradero" : "\"BR. LISBOA\""
+    },
+    "00032" : {
+      "Direccion_Paradero" : "\"Cll 134 # 17\"",
+      "Latitud_Paradero" : "\"4.717605\"",
+      "Longitud_Paradero" : "\"-74.046499\"",
+      "Nombre_Paradero" : "\"BR. EL CONTADOR\""
+    },
+    "00033" : {
+      "Direccion_Paradero" : "\"Cll 134 # 20\"",
+      "Latitud_Paradero" : "\"4.718849\"",
+      "Longitud_Paradero" : "\"-74.049193\"",
+      "Nombre_Paradero" : "\"URB. NUEVA AUTOPISTA II SECTOR\""
+    },
+    "00034" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # CLL 136\"",
+      "Latitud_Paradero" : "\"4.722191\"",
+      "Longitud_Paradero" : "\"-74.050979\"",
+      "Nombre_Paradero" : "\"PARQUE ALCALA\""
+    },
+    "00035" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # CLL 95\"",
+      "Latitud_Paradero" : "\"4.685609\"",
+      "Longitud_Paradero" : "\"-74.057837\"",
+      "Nombre_Paradero" : "\"BR. CHICO III SECTOR\""
+    },
+    "00036" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # CLL 98\"",
+      "Latitud_Paradero" : "\"4.685865\"",
+      "Longitud_Paradero" : "\"-74.057059\"",
+      "Nombre_Paradero" : "\"ESTACION CALLE 100\""
+    },
+    "00037" : {
+      "Direccion_Paradero" : "\"CLL 100 # 11B\"",
+      "Latitud_Paradero" : "\"4.683684\"",
+      "Longitud_Paradero" : "\"-74.045471\"",
+      "Nombre_Paradero" : "\"COLSANITAS CLL 100\""
+    },
+    "00038" : {
+      "Direccion_Paradero" : "\"CRA 11 # 97A\"",
+      "Latitud_Paradero" : "\"4.681186\"",
+      "Longitud_Paradero" : "\"-74.044385\"",
+      "Nombre_Paradero" : "\"BR. CHICO NORTE II SECTOR\""
+    },
+    "00039" : {
+      "Direccion_Paradero" : "\"CRA 11 # 94A\"",
+      "Latitud_Paradero" : "\"4.678595\"",
+      "Longitud_Paradero" : "\"-74.045682\"",
+      "Nombre_Paradero" : "\"BR. CHICO NORTE\""
+    },
+    "00040" : {
+      "Direccion_Paradero" : "\"CRA 11 # 93A\"",
+      "Latitud_Paradero" : "\"4.676325\"",
+      "Longitud_Paradero" : "\"-74.046863\"",
+      "Nombre_Paradero" : "\"PARQUE DE LA 93\""
+    },
+    "00041" : {
+      "Direccion_Paradero" : "\"CRA 11 #  92\"",
+      "Latitud_Paradero" : "\"4.676287\"",
+      "Longitud_Paradero" : "\"-74.046952\"",
+      "Nombre_Paradero" : "\"EMBAJADA DE FRANCIA\""
+    },
+    "00042" : {
+      "Direccion_Paradero" : "\"CLL 92 # 14\"",
+      "Latitud_Paradero" : "\"4.675512\"",
+      "Longitud_Paradero" : "\"-74.051233\"",
+      "Nombre_Paradero" : "\"CHICO NORTE\""
+    },
+    "00043" : {
+      "Direccion_Paradero" : "\"CLL 92 # 16\"",
+      "Latitud_Paradero" : "\"4.676656\"",
+      "Longitud_Paradero" : "\"-74.053465\"",
+      "Nombre_Paradero" : "\"CADE CHICO\""
+    },
+    "00044" : {
+      "Direccion_Paradero" : "\"CLL 92 # 19\"",
+      "Latitud_Paradero" : "\"4.677697\"",
+      "Longitud_Paradero" : "\"-74.055368\"",
+      "Nombre_Paradero" : "\"BR. CHICO\""
+    },
+    "00045" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # 95\"",
+      "Latitud_Paradero" : "\"4.683963\"",
+      "Longitud_Paradero" : "\"-74.057326\"",
+      "Nombre_Paradero" : "\"BR. CHICO NORTE III SECTOR\""
+    },
+    "00046" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # 85\"",
+      "Latitud_Paradero" : "\"4.672332\"",
+      "Longitud_Paradero" : "\"-74.059281\"",
+      "Nombre_Paradero" : "\"ESTACION CALLE 85\""
+    },
+    "00047" : {
+      "Direccion_Paradero" : "\"AUTO NORTE # 88\"",
+      "Latitud_Paradero" : "\"4.674711\"",
+      "Longitud_Paradero" : "\"-74.058903\"",
+      "Nombre_Paradero" : "\"ESTACION EL VIRREY\""
+    },
+    "00048" : {
+      "Direccion_Paradero" : "\"CLL 90 # 16\"",
+      "Latitud_Paradero" : "\"4.675016\"",
+      "Longitud_Paradero" : "\"-74.053893\"",
+      "Nombre_Paradero" : "\"CADE CHICO\""
+    },
+    "00049" : {
+      "Direccion_Paradero" : "\"CLL 90 # 13A\"",
+      "Latitud_Paradero" : "\"4.673993\"",
+      "Longitud_Paradero" : "\"-74.051847\"",
+      "Nombre_Paradero" : "\"BR. CHICO\""
+    },
+    "00050" : {
+      "Direccion_Paradero" : "\"CLL 90 # 11A\"",
+      "Latitud_Paradero" : "\"4.672850\"",
+      "Longitud_Paradero" : "\"-74.050072\"",
+      "Nombre_Paradero" : "\"BR. EL CHICO\""
+    },
+    "00051" : {
+      "Direccion_Paradero" : "\"CRA 11 # 87\"",
+      "Latitud_Paradero" : "\"4.669952\"",
+      "Longitud_Paradero" : "\"-74.050093\"",
+      "Nombre_Paradero" : "\"PQUIA. LA INMACULADA CONCEPCION\""
+    },
+    "00052" : {
+      "Direccion_Paradero" : "\"CRA 11 # 85\"",
+      "Latitud_Paradero" : "\"4.668372\"",
+      "Longitud_Paradero" : "\"-74.051360\"",
+      "Nombre_Paradero" : "\"BR. LA CABRERA\""
+    },
+    "00053" : {
+      "Direccion_Paradero" : "\"CLL 85 # 13\"",
+      "Latitud_Paradero" : "\"4.669218\"",
+      "Longitud_Paradero" : "\"-74.053693\"",
+      "Nombre_Paradero" : "\"PARQUE LEON DE GREIFF\""
+    },
+    "00054" : {
+      "Direccion_Paradero" : "\"CLL 85 # 16A\"",
+      "Latitud_Paradero" : "\"4.670764\"",
+      "Longitud_Paradero" : "\"-74.056503\"",
+      "Nombre_Paradero" : "\"BR. ANTIGUO COUNTRY\""
+    },
+    "00055" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # 18\"",
+      "Latitud_Paradero" : "\"4.661752\"",
+      "Longitud_Paradero" : "\"-74.133957\"",
+      "Nombre_Paradero" : "\"BR. EL VERGEL\""
+    },
+    "00056" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # 20\"",
+      "Latitud_Paradero" : "\"4.661412\"",
+      "Longitud_Paradero" : "\"-74.133998\"",
+      "Nombre_Paradero" : "\"C.C. HAYUELOS\""
+    },
+    "00057" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # 22F\"",
+      "Latitud_Paradero" : "\"4.668664\"",
+      "Longitud_Paradero" : "\"-74.128605\"",
+      "Nombre_Paradero" : "\"BR. BALEARES\""
+    },
+    "00058" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # 23A BIS\"",
+      "Latitud_Paradero" : "\"4.669859\"",
+      "Longitud_Paradero" : "\"-74.127293\"",
+      "Nombre_Paradero" : "\"BR. MODELIA OCCIDENTAL\""
+    },
+    "00059" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # AV. ESPERANZA\"",
+      "Latitud_Paradero" : "\"4.673030\"",
+      "Longitud_Paradero" : "\"-74.124894\"",
+      "Nombre_Paradero" : "\"BR. RINCON DE MODELIA\""
+    },
+    "00060" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # 23C\"",
+      "Latitud_Paradero" : "\"4.673180\"",
+      "Longitud_Paradero" : "\"-74.124543\"",
+      "Nombre_Paradero" : "\"BR. BOSQUE DE MODELIA\""
+    },
+    "00061" : {
+      "Direccion_Paradero" : "\"AV. C. DE CALI # 25B\"",
+      "Latitud_Paradero" : "\"4.675682\"",
+      "Longitud_Paradero" : "\"-74.122534\"",
+      "Nombre_Paradero" : "\"CENTRO COMERCIAL DORADO PLAZA\""
+    },
+    "00062" : {
+      "Direccion_Paradero" : "\"CLL 26 # AV. C. DE CALI\"",
+      "Latitud_Paradero" : "\"4.681016\"",
+      "Longitud_Paradero" : "\"-74.120157\"",
+      "Nombre_Paradero" : "\"PORTAL ELDORADO\""
+    },
+    "00063" : {
+      "Direccion_Paradero" : "\"CLL 26 # TRASNS. 93\"",
+      "Latitud_Paradero" : "\"4.684386\"",
+      "Longitud_Paradero" : "\"-74.123438\"",
+      "Nombre_Paradero" : "\"PORTAL ELDORADO\""
+    },
+    "00064" : {
+      "Direccion_Paradero" : "\"CLL 26 # 96J\"",
+      "Latitud_Paradero" : "\"4.686242\"",
+      "Longitud_Paradero" : "\"-74.126950\"",
+      "Nombre_Paradero" : "\"COMPLEJO OPTIMUS\""
+    },
+    "00065" : {
+      "Direccion_Paradero" : "\"CLL 26 # 100BIS\"",
+      "Latitud_Paradero" : "\"4.689103\"",
+      "Longitud_Paradero" : "\"-74.129465\"",
+      "Nombre_Paradero" : "\"VILLA DEL MAR\""
+    },
+    "00066" : {
+      "Direccion_Paradero" : "\"CLL 26 # 103\"",
+      "Latitud_Paradero" : "\"4.690358\"",
+      "Longitud_Paradero" : "\"-74.131348\"",
+      "Nombre_Paradero" : "\"CIAC\""
+    },
+    "00067" : {
+      "Direccion_Paradero" : "\"CLL 26 # 106\"",
+      "Latitud_Paradero" : "\"4.694293\"",
+      "Longitud_Paradero" : "\"-74.136123\"",
+      "Nombre_Paradero" : "\"PUENTE AEREO\""
+    },
+    "00068" : {
+      "Direccion_Paradero" : "\"CLL 26 # 106\"",
+      "Latitud_Paradero" : "\"4.694272\"",
+      "Longitud_Paradero" : "\"-74.136091\"",
+      "Nombre_Paradero" : "\"BR. LA GROVANA\""
+    },
+    "00069" : {
+      "Direccion_Paradero" : "\"CLL 26 # 103\"",
+      "Latitud_Paradero" : "\"4.689834\"",
+      "Longitud_Paradero" : "\"-74.131970\"",
+      "Nombre_Paradero" : "\"AEROPUERTO ELDORADO\""
+    },
+    "00070" : {
+      "Direccion_Paradero" : "\"CLL 65B SUR # 19\"",
+      "Latitud_Paradero" : "\"4.558366\"",
+      "Longitud_Paradero" : "\"-74.145652\"",
+      "Nombre_Paradero" : "\"BR. LAS DELICIAS DEL SUR\""
+    },
+    "00071" : {
+      "Direccion_Paradero" : "\"CRA 18Z # 66A SUR\"",
+      "Latitud_Paradero" : "\"4.557960\"",
+      "Longitud_Paradero" : "\"-74.146788\"",
+      "Nombre_Paradero" : "\"BR. LAS DELICIAS DEL SUR\""
+    },
+    "00072" : {
+      "Direccion_Paradero" : "\"CRA 19 BIS # 66D SUR\"",
+      "Latitud_Paradero" : "\"4.558918\"",
+      "Longitud_Paradero" : "\"-74.148741\"",
+      "Nombre_Paradero" : "\"BR. LAS DELICIAS DEL SUR\""
+    },
+    "00073" : {
+      "Direccion_Paradero" : "\"CLL 68C SUR # 18\"",
+      "Latitud_Paradero" : "\"4.557781\"",
+      "Longitud_Paradero" : "\"-74.149907\"",
+      "Nombre_Paradero" : "\"BR. LAS DELICIAS DEL SUR\""
+    },
+    "00074" : {
+      "Direccion_Paradero" : "\"DG 68 SUR # 19C\"",
+      "Latitud_Paradero" : "\"4.560112\"",
+      "Longitud_Paradero" : "\"-74.149176\"",
+      "Nombre_Paradero" : "\"BR. MILLAN\""
+    },
+    "00075" : {
+      "Direccion_Paradero" : "\"CRA 19D # 66 SUR\"",
+      "Latitud_Paradero" : "\"4.560583\"",
+      "Longitud_Paradero" : "\"-74.147973\"",
+      "Nombre_Paradero" : "\"BR. MILLAN\""
+    },
+    "00076" : {
+      "Direccion_Paradero" : "\"CRA 19D # 64 SUR\"",
+      "Latitud_Paradero" : "\"4.561488\"",
+      "Longitud_Paradero" : "\"-74.147973\"",
+      "Nombre_Paradero" : "\"BR. LAS ACACIAS\""
+    },
+    "00077" : {
+      "Direccion_Paradero" : "\"CRA 19D # 62 SUR\"",
+      "Latitud_Paradero" : "\"4.562162\"",
+      "Longitud_Paradero" : "\"-74.142889\"",
+      "Nombre_Paradero" : "\"URBANIZACION LA PALMERA\""
+    },
+    "00078" : {
+      "Direccion_Paradero" : "\"CRA 19D # 62 SUR\"",
+      "Latitud_Paradero" : "\"4.562718\"",
+      "Longitud_Paradero" : "\"-74.141173\"",
+      "Nombre_Paradero" : "\"BR. ACACIAS SUR\""
+    },
+    "00079" : {
+      "Direccion_Paradero" : "\"DG 62 SUR # 19\"",
+      "Latitud_Paradero" : "\"4.561999\"",
+      "Longitud_Paradero" : "\"-74.139696\"",
+      "Nombre_Paradero" : "\"BR. LUCERO ALTO \""
+    },
+    "00080" : {
+      "Direccion_Paradero" : "\"AV. BOYACA # 18Q SUR\"",
+      "Latitud_Paradero" : "\"4.559475\"",
+      "Longitud_Paradero" : "\"-74.139349\"",
+      "Nombre_Paradero" : "\"BR. LUCERO ALTO \""
+    },
+    "00081" : {
+      "Direccion_Paradero" : "\"AV. BOYACA # 64A BIS SUR\"",
+      "Latitud_Paradero" : "\"4.554866\"",
+      "Longitud_Paradero" : "\"-74.137738\"",
+      "Nombre_Paradero" : "\"BR. LUCERO DEL SUR \""
+    },
+    "00082" : {
+      "Direccion_Paradero" : "\"AV. BOYACA # 66 SUR\"",
+      "Latitud_Paradero" : "\"4.552768\"",
+      "Longitud_Paradero" : "\"-74.137007\"",
+      "Nombre_Paradero" : "\"BR. LUCERO DEL SUR \""
+    },
+    "00083" : {
+      "Direccion_Paradero" : "\"AV. BOYACA # 70B SUR\"",
+      "Latitud_Paradero" : "\"4.549102\"",
+      "Longitud_Paradero" : "\"-74.137124\"",
+      "Nombre_Paradero" : "\"BR. QUINTAS DEL SUR\""
+    }
+  },
+  "Ruta" : {
+    "0000A" : {
+      "Destino_Ruta" : "[{lat: 4.605392, lng: -74.066921}]",
+      "Id_Ruta" : "\"14 - 2\"",
+      "Nombre_Ruta" : "\"BICENTENARIO - UNIVERSIDADES\"",
+      "Origen_Ruta" : "[{lat: 4.593832,lng: -74.081899}]",
+      "Paradas" : [ [ 4.592561, -74.08135 ], [ 4.591046, -74.080104 ], [ 4.590185, -74.078056 ], [ 4.592092, -74.076368 ], [ 4.593937, -74.074908 ], [ 4.592087, -74.071958 ], [ 4.593199, -74.069856 ], [ 4.595692, -74.067512 ], [ 4.599844, -74.065449 ], [ 4.601617, -74.061471 ], [ 4.603991, -74.064818 ], [ 4.605296, -74.066063 ] ]
+    },
+    "0000B" : {
+      "Destino_Ruta" : "[{lat: 4.722191, lng:-74.050979}]",
+      "Id_Ruta" : "\"19 - 1\"",
+      "Nombre_Ruta" : "\"Estación Alcalá\"",
+      "Origen_Ruta" : "[{lat: 4.721920,lng:-74.050969}]",
+      "Paradas" : [ [ 4.724473, -74.047843 ], [ 4.724048, -74.045395 ], [ 4.724171, -74.043692 ], [ 4.724171, -74.043692 ], [ 4.724012, -74.042901 ], [ 4.722961, -74.039114 ], [ 4.722515, -74.038 ], [ 4.721007, -74.034639 ], [ 4.717969, -74.03259 ], [ 4.716506, -74.028958 ], [ 4.715954, -74.028627 ], [ 4.713662, -74.029322 ], [ 4.712795, -74.031565 ], [ 4.713451, -74.033645 ], [ 4.714712, -74.037597 ], [ 4.715376, -74.039449 ], [ 4.716429, -74.042944 ], [ 4.717605, -74.046499 ], [ 4.718849, -74.049193 ] ]
+    },
+    "0000C" : {
+      "Destino_Ruta" : "[{lat: 4.683963, lng: -74.057326}]",
+      "Id_Ruta" : "\"19 - 3\"",
+      "Nombre_Ruta" : "\"CHICO NORTE\"",
+      "Origen_Ruta" : "[{lat: 4.685609, lng: -74.057837}]",
+      "Paradas" : [ [ 4.685865, -74.057059 ], [ 4.683684, -74.045471 ], [ 4.681186, -74.044385 ], [ 4.678595, -74.045682 ], [ 4.676325, -74.046863 ], [ 4.676287, -74.046952 ], [ 4.675512, -74.051233 ], [ 4.676656, -74.053465 ], [ 4.677697, -74.055368 ] ]
+    },
+    "0000D" : {
+      "Destino_Ruta" : "[{lat: 4.672332, lng: -74.059281}] ",
+      "Id_Ruta" : "\"19 - 8\"",
+      "Nombre_Ruta" : "\"LA CABRERA\"",
+      "Origen_Ruta" : "[{lat: 4.672332, lng: -74.059281}]",
+      "Paradas" : [ [ 4.674711, -74.058903 ], [ 4.675016, -74.053893 ], [ 4.673993, -74.051847 ], [ 4.67285, -74.050072 ], [ 4.669952, -74.050093 ], [ 4.668372, -74.05136 ], [ 4.669218, -74.053693 ], [ 4.670764, -74.056503 ] ]
+    },
+    "0000E" : {
+      "Destino_Ruta" : "[{lat: 4.689834, lng: -74.131970}]",
+      "Id_Ruta" : "\"N06\"",
+      "Nombre_Ruta" : "\"HAYUELOS - AEROPUERTO\"",
+      "Origen_Ruta" : "[{ lat: 4.661752, lng: -74.133957}]",
+      "Paradas" : [ [ 4.661412, -74.133998 ], [ 4.668664, -74.128605 ], [ 4.669859, -74.127293 ], [ 4.67303, -74.124894 ], [ 4.67318, -74.124543 ], [ 4.675682, -74.122534 ], [ 4.681016, -74.120157 ], [ 4.684386, -74.123438 ], [ 4.686242, -74.12695 ], [ 4.689103, -74.129465 ], [ 4.690358, -74.131348 ], [ 4.694293, -74.136123 ], [ 4.694272, -74.136091 ] ]
+    },
+    "0000F" : {
+      "Destino_Ruta" : "[{lat: 4.549102, lng: -74.137124}]",
+      "Id_Ruta" : "\"N15\"",
+      "Nombre_Ruta" : "\"COMPARTIR - QUINTAS DEL SUR\"",
+      "Origen_Ruta" : "[{lat: 4.558366, lng: -74.145652}]",
+      "Paradas" : [ [ 4.55796, -74.146788 ], [ 4.558918, -74.148741 ], [ 4.557781, -74.149907 ], [ 4.560112, -74.149176 ], [ 4.560583, -74.147973 ], [ 4.561488, -74.145278 ], [ 4.562162, -74.142889 ], [ 4.562718, -74.141173 ], [ 4.561999, -74.139696 ], [ 4.559475, -74.139349 ], [ 4.554866, -74.137738 ], [ 4.552768, -74.137007 ] ]
+    }
+  }
+}
